@@ -17,6 +17,6 @@ int main() {
 //    int data = MainMemory->row[2]->each_column[1]->data;
 //    printf("%d", data);
     run_CPU(L1_instruction_cache, L1_data_cache, L2_cache);
-    printf("Hello, World!\n");
+    //printf("Hello, World!\n");
     return 0;
 }
