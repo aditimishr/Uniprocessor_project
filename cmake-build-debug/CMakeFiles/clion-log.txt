@@ -1,4 +1,4 @@
-C:\Users\aditimishra\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\191.7141.37\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\ACA\Mishra_Aditi_CSCI8510_Project\Uniprocessor
+C:\Users\aditimishra\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\191.7141.37\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\ACA\Mishra_Aditi_CSCI8510_Project\Uniprocessor_project
 -- The C compiler identification is GNU 8.1.0
 -- Check for working C compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe
 -- Check for working C compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe -- works
@@ -8,4 +8,4 @@ C:\Users\aditimishra\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\191.7141.37
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug
+-- Build files have been written to: D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor_project/cmake-build-debug
