@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Uniprocessor"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Uniprocessor">
+				<Option output="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Uniprocessor.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 Uniprocessor"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Uniprocessor/fast">
+				<Option output="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Uniprocessor.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 Uniprocessor/fast"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f &quot;D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Address/Address.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Address/Address.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Block/Block.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Block/Block.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Bus_L1_L2/Bus_L1_L2.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Bus_L1_L2/Bus_L1_L2.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Bus_L2_Memory/Bus_L2_Memory.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Bus_L2_Memory/Bus_L2_Memory.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Cache/Cache.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Cache/Cache.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Controller/Controller.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Controller/Controller.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Executing_instructions/Executing_instructions.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Executing_instructions/Executing_instructions.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/In_a_cache_block/In_a_cache_block.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/In_a_cache_block/In_a_cache_block.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/In_a_row/In_a_row.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/In_a_row/In_a_row.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Instruction/Instruction.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Instruction/Instruction.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Main_Memory/Main_Memory.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Main_Memory/Main_Memory.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Processor/processor.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Processor/processor.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Queue/Queue.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Queue/Queue.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Row_of_a_main_memory/Rows.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Row_of_a_main_memory/Rows.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Set_for_L1_cache/Set_for_cache.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Set_for_L1_cache/Set_for_cache.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Victim_Cache/Victim_Cache.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Victim_Cache/Victim_Cache.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Write_Buffer/Write_Buffer.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/Write_Buffer/Write_Buffer.h">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/main.c">
+			<Option target="Uniprocessor"/>
+		</Unit>
+		<Unit filename="D:/ACA/Mishra_Aditi_CSCI8510_Project/Uniprocessor/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
