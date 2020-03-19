@@ -1,5 +1,12 @@
 # Uniprocessor Project
 
+Project Description -
+Implement a memory 3-level memory hierarchy comprised of interacting L1 and L2 cache controllers and a memory. You design the individual components of the subsystem based on the L1 controller hand out (available at the canvas course website). You are free to make suitable  assumptions  about  the  processor  interface  and  the  DRAM  to  simplify  your implementation. For example, you may implement processor as a stub that issues a sequence of loads and stores and implement the DRAM simply as an array.
+
+Project Goals -
+Build  a  working  model  of  the  memory  subsystem  that  processes  reads  (load)  and  write (store)  commands  issued  by  a  processor  and  services  the  commands  by  performing  the appropriate   actions.   The   memory   subsystem   should   be   capable   of   simultaneously processing multiple requests while preserving the semantics of the input sequence of reads and writes. For example, a read following a write to the same block in the sequence must be  processed  serially  by  your  implementation  whereas  the  operations  involving  distinct addresses may be re-ordered.Your implementation must encapsulate the processor from the cache subsystem details wherever possible. You must support reads and writes of any addressable quantities. However, you may assume that each operation targets only a single cache block.
+
+
 The implementation has several assumptions -
 1) Each instruction and data are of 4 bytes
 2) Instructions and data are stored hardcoded.
